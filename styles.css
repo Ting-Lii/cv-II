@@ -1,0 +1,56 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+}
+
+h1{
+  font-size: 30px;
+  margin-top: 50px;
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #dddddd;
+  height: 649px;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+.chinesecloud{
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 0px;
+}
+
+ .missTing{
+  position: absolute;
+  margin-top: 200px;
+  padding-right: 1000px;
+ }
+
+ .computer {
+   width: 100px;
+   height: 100px;
+ }
+
+ .hotpot {
+   width: 100px;
+   height: 100px;
+ }
